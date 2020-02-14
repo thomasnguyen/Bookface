@@ -10,6 +10,7 @@ FrontEnd Stack:
 
 Backend Stack
 - NodeJS
+- Apollo Server
 - Graphql
 - MySQL
 - Express?
